@@ -57,7 +57,7 @@ public class twitterku {
 
     private String getSavedAccessToken() {
 	// consider this is method to get your previously saved Access Token
-	return "997866790733545472-6j6nEF6IOVE0aTm2WJfG3w2FhWATJeP";
+	return "y0V76YkajWfmtNdQSi0aXNJBs0CAKZ9RmrSyNmLuV1kys";
     }
 
     public static void main(String[] args) throws Exception {
